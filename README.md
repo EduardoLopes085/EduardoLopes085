@@ -31,7 +31,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham)
+![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
