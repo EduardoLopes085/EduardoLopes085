@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Eu sou o Eduardo! Um estudante de Desenvolvimento de Sistemas (⌐■_■).
 
-  - 🌱 Atualmente estou focado em React e Node.Js
+  - 🎯 Atualmente estou focado em React e Node.Js
 
   - 🔭 Estou a procura da minha primeira oportunidade de emprego. 
 </p>
@@ -17,12 +17,12 @@
 <details>
   <summary>👨‍💻 Sobre mim:</summary>
 
-  - 💬 Tenho 23 anos, moro em Fortaleza-CE. Tenho experiência com HTML, JavaScript, CSS, React, Node, e SQL.
-  - 🙋‍♂️ Decidi entrar para a área de desenvolvimento em 2020 quando me matriculei em um curso de nível técnico no SENAI. O concluí no final de 2021.
-  - 👨‍🎓 Sou graduando em Desenvolvimento de Sistemas, curso essse que me formo ano que vem.
-  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro e sou aluno da UECE pelo Capacita Brasil 
+  - 📍 Tenho 23 anos, moro em Fortaleza-CE.
+  - 🙋‍♂️ Decidi entrar para a área de desenvolvimento em 2020, quando me matriculei em um curso de nível técnico no SENAI. O concluí no final de 2021.
+  - 👨‍🎓 Sou graduando em Desenvolvimento de Sistemas, curso esse que me formo ano que vem!
+  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro e sou aluno da UECE pelo Capacita Brasil
 
-  - ⚡ No meu tempo livre eu gosto de ler mangás, assistir animes, ouvir música ou jogar!
+  - ⚡ No meu tempo livre, gosto de ler mangás, assistir animes, ouvir música ou jogar!
 </details>
 
 <!-- Links -->
