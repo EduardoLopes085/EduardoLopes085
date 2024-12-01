@@ -40,10 +40,11 @@
 - [ToDoList](https://github.com/EduardoLopes085/toDoList)
 - [Spotify Clone](https://github.com/EduardoLopes085/Spotify)
 
-<!-- GIF -->
+<!-- 
 <p align="left">
   <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241201T013444Z&X-Amz-Expires=300&X-Amz-Signature=87634c0155ca9da9cb50188c8572160772eb2b65ecd17673c5e4307954d87c9f&X-Amz-SignedHeaders=host" alt="Imagem">
 </p>
+-->
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
