@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou o Eduardo! Um estudante de Desenvolvimento de Sistemas (⌐■_■).
+  Olá 👋, Eu sou o Eduardo! Um Desenvolvedor Full Stack em formação (⌐■_■).
 
   - 🎯 Atualmente estou focado em React e Node.Js
 
