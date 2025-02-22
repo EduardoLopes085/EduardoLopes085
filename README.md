@@ -20,7 +20,7 @@
   - 📍 Tenho 23 anos, moro em Fortaleza-CE.
   - 🙋‍♂️ Decidi entrar para a área de desenvolvimento em 2020, quando me matriculei em um curso de nível técnico no SENAI. O concluí no final de 2021.
   - 👨‍🎓 Sou graduando em Desenvolvimento de Sistemas, curso esse que me formo esse ano!
-  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro e sou aluno da UECE pelo Capacita Brasil em Full Stack e Ciência de Dados
+  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro de 2024 recebendo a medalha de bronze. Sou aluno da UECE pelo Capacita Brasil nas trilhas de Full Stack e Ciência de Dados
 
   - ⚡ No meu tempo livre, gosto de ler mangás, assistir animes, ouvir música ou jogar!
 </details>
