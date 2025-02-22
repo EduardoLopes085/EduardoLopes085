@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 💻 </h1></summary>
+    <summary><h1 style="display: inline-block">Hello World 🔭 </h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -10,7 +10,7 @@
 
   - 🎯 Atualmente estou focado em React e Node.Js
 
-  - 🔭 Estou a procura da minha primeira oportunidade de emprego. 
+  - 💻 Iniciei em Fevereiro de 2025 como desenvolvedor web no mercado de trabalho!
 </p>
 
 <!-- Dropdown -->
@@ -19,8 +19,8 @@
 
   - 📍 Tenho 23 anos, moro em Fortaleza-CE.
   - 🙋‍♂️ Decidi entrar para a área de desenvolvimento em 2020, quando me matriculei em um curso de nível técnico no SENAI. O concluí no final de 2021.
-  - 👨‍🎓 Sou graduando em Desenvolvimento de Sistemas, curso esse que me formo ano que vem!
-  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro e sou aluno da UECE pelo Capacita Brasil
+  - 👨‍🎓 Sou graduando em Desenvolvimento de Sistemas, curso esse que me formo esse ano!
+  - 🏃‍♂️ Além disso, concluí o Geração Tech em novembro e sou aluno da UECE pelo Capacita Brasil em Full Stack e Ciência de Dados
 
   - ⚡ No meu tempo livre, gosto de ler mangás, assistir animes, ouvir música ou jogar!
 </details>
