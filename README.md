@@ -30,7 +30,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes-b74827232/)
 
 <!-- GithubStats -->
-![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham)
+![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
+
 
 <!-- Portfolio -->
 ## Portfolio:
