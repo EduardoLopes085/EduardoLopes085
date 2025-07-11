@@ -33,6 +33,10 @@
 ![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
 
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLopes085&layout=compact&theme=gotham)
+
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Digital Storage Front-End](https://github.com/EduardoLopes085/DigitalWorking)
