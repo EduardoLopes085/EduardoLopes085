@@ -33,8 +33,6 @@
 <!-- GithubStats -->
 ![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham)
 
-![EduardoLopes085 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLopes085&show_icons=true&theme=gotham&count_private=true&token=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)
-
 <!-- Portfolio -->
 ## Portfolio:
 - [Digital Storage Front-End](https://github.com/EduardoLopes085/DigitalWorking)
