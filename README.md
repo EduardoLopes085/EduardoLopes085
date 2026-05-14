@@ -39,10 +39,12 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Digital Storage Front-End](https://github.com/EduardoLopes085/DigitalWorking)
+- [Digital Storage Front-End](https://github.com/EduardoLopes085/DigitalStore)
 - [Digital Storage Back-End](https://github.com/EduardoLopes085/Node)
 - [ToDoList](https://github.com/EduardoLopes085/toDoList)
 - [Spotify Clone](https://github.com/EduardoLopes085/Spotify)
+- [Foundly](https://github.com/EduardoLopes085/Foundly)
+- [Foundly Backend](https://github.com/EduardoLopes085/foundlybackend)
 
 <!-- 
 <p align="left">
